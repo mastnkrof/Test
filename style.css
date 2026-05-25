@@ -19,6 +19,10 @@ h3 {
 }
 
 p {
-  font-family: verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 18px;
+}
+
+.code-font {
+  font-family: 'Courier New', Courier, monospace;
 }
